@@ -19,5 +19,5 @@
     });
   });
 
-  console.log('%c🍬 KartickApps — made with pyaar', 'font-size:16px;font-weight:bold');
+  console.log('%c🍬 KartickApps', 'font-size:16px;font-weight:bold');
 })();
